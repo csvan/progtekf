@@ -1,5 +1,7 @@
 Exercises and answers for students taking the course Programmeringsteknik F at Chalmers. Useful material for the exam and other good stuff will be added over time as well.
 
-You can find all exercises with their associated solutions (with complete Java files) under src. Feel free to download, run and study them to make sure everything makes sense.
+You can find all exercises with their associated solutions (with complete Java files) under src. Feel free to download, run and study them to make sure everything makes sense. Contact me if you have any guestions or if you feel something is missing. Use your student mail!
+
+As an aside (and this being GitHub and all...), you will get the most out of this page if you use Git to track changes. Git is free software, and you can get it here: http://git-scm.com/. There is a great tutorial for getting started on the same site: http://git-scm.com/book/en/Getting-Started. Knowing how to use Git is a valuable skill no matter what you will do in relation to software, since it is rapidly becoming one of the most popular SCMs around.
 
 Good luck :)
